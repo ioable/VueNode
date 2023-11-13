@@ -15,5 +15,4 @@ npm start
 admin 文件：后台管理系统前端
 web文件：官网前端
 server文件：后端
-db文件;数据库
 ```
